@@ -4,7 +4,7 @@ Image classification task using transformers applied on two datasets
 ### First Model that applied on Food-101 dataset
 dataset
 ```
-[https://huggingface.co/datasets/food101](FOOD-101 Dataset)
+https://huggingface.co/datasets/food101
 ```
 model 
 ```
@@ -12,7 +12,7 @@ eslamxm/vit-base-food101
 ```
 dataset
 ```
-[[https://huggingface.co/datasets/food101](FOOD-101 Dataset)](Cifar100 dataset)
+https://huggingface.co/datasets/food101
 ```
 model 
 ```
